@@ -39,7 +39,7 @@ void jack_bauer(void)
 			while (minutes_tens < '6')
 
 			{
-						
+
 				minutes_ones = '0';
 
 				while (minutes_ones < 58)
